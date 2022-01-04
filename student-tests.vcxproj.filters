@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P4_1\P4_1\student_catch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P4_1\P4_1\student_tests.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P4_1\P4_1\catch.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P4_1\P4_1\Deque.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Virginia Tech\FALL2021\Data Structures\Project Source Codes\P4_1\P4_1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F82B940D-4747-3F58-AA36-1EE0A97DC357}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8B62A0C7-2F93-3B6C-A2FB-8A72C3B9330C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
